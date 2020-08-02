@@ -1,0 +1,14 @@
+{
+  "name": "butlerbro",
+  "version": "1.0.1",
+  "description": "rvlbutlerbro",
+  "main": "butlerbro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ten",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
